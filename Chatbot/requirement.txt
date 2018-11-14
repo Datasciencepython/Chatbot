@@ -1,0 +1,2 @@
+1.ChatterBot - Install in cmd  prompt using pip install Chatterbot
+2.  Simple Web Socket Server
